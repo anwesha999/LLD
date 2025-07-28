@@ -1,3 +1,3 @@
 # Parking Lot Design
 
-A simple Java implementation of a parking lot system using OOP principles.
+This module implements a Low-Level Design of a Parking Lot System supporting multiple vehicle types, spot allocation, fee strategy, and extensibility.
